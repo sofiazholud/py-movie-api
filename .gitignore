@@ -24,3 +24,6 @@ fixtures/
 
 
 *.log
+*.swp
+.DS_Store
+Thumbs.db
